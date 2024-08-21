@@ -1,4 +1,4 @@
-# perplexity-ai-clone
+# like perplexity.ai
 
 Describe your project here.
 
