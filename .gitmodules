@@ -1,0 +1,3 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/engkimo/like_perplexityai_front.git
